@@ -1,18 +1,20 @@
+<h1 align="center">Maulana Yusuf Zidan 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1F2A44&center=true&vCenter=true&width=440&lines=Frontend+Engineer;Backend+Engineer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Frontend+Engineer;Backend+Engineer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MaulanaYusufzidan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MaulanaYusufzidan-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://zidanwith.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-zidanwith.vercel.app-1F2A44?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1F2A44?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:Maulanayusufzidann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Maulanayusufzidann%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bogor%2C%20Indonesia-555555?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bogor%2C%20Indonesia-555555?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -66,12 +68,7 @@ I'm a Web Developer currently studying Information Systems (7th semester) with h
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaulanaYusufzidan&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulanaYusufzidan&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaulanaYusufzidan&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaulanaYusufzidan&hide_border=true&theme=default" />
 </p>
 
 ---
