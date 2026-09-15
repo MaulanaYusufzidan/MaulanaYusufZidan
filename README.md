@@ -26,6 +26,7 @@ I'm a Web Developer currently studying Information Systems (7th semester) with h
 - 🔭 Currently building projects with **React.js, Next.js, Laravel, Node.js**, and **RESTful APIs**
 - 🛠️ Experienced in developing Decision Support Systems (SPK) and admin dashboards using Laravel (MVC)
 - 📜 BNSP-certified Database Administrator — Database Design, Data Integration, SQL Implementation
+- 📜 BNSP-certified Analyst Program — Software Scalability, SQL, Database Access, Algorithms, Code Docs, Debugging, Profiling, Code Review, Unit & Integration Testing
 - 🌱 Currently exploring system design, clean architecture, and AI-assisted development workflows
 - 🤝 Open to internships, collaborations, and entry-level web development opportunities
 
@@ -77,6 +78,7 @@ I'm a Web Developer currently studying Information Systems (7th semester) with h
 
 - **Universitas Bina Sarana Informatika** — Bachelor of Information Systems (2023 – Present), GPA 3.70/4.00
 - **BNSP Certified Database Administrator** — Issued by LSP Universitas Bina Sarana Informatika
+- **BNSP Certified Analyst Program** — Issued by LSP Universitas Bina Sarana Informatika
 
 ---
 
