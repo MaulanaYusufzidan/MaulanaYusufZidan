@@ -23,12 +23,12 @@
 
 I'm a Web Developer currently studying Information Systems (7th semester) with hands-on experience building web applications through academic and volunteer projects. I enjoy turning ideas into practical, maintainable systems — from responsive interfaces and API integration to database design and deployment.
 
-- 🔭 Currently building projects with **React.js, Next.js, Laravel, Node.js**, and **RESTful APIs**
-- 🛠️ Experienced in developing Decision Support Systems (SPK) and admin dashboards using Laravel (MVC)
-- 📜 BNSP-certified Database Administrator — Database Design, Data Integration, SQL Implementation
-- 📜 BNSP-certified Analyst Program — Software Scalability, SQL, Database Access, Algorithms, Code Docs, Debugging, Profiling, Code Review, Unit & Integration Testing
-- 🌱 Currently exploring system design, clean architecture, and AI-assisted development workflows
-- 🤝 Open to internships, collaborations, and entry-level web development opportunities
+* 🔭 Currently building projects with **React.js, Next.js, Laravel, Node.js**, and **RESTful APIs**
+* 🛠️ Experienced in developing Decision Support Systems (SPK) and admin dashboards using Laravel (MVC)
+* 📜 BNSP-certified Database Administrator — Database Design, Data Integration, SQL Implementation
+* 📜 BNSP-certified Analyst Program — Software Scalability, SQL, Database Access, Algorithms, Code Docs, Debugging, Profiling, Code Review, Unit & Integration Testing
+* 🌱 Currently exploring system design, clean architecture, and AI-assisted development workflows
+* 🤝 Open to internships, collaborations, and entry-level web development opportunities
 
 ---
 
@@ -69,16 +69,16 @@ I'm a Web Developer currently studying Information Systems (7th semester) with h
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaulanaYusufzidan&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=MaulanaYusufzidan&hide_border=true&theme=default&v=20260921" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 ### 🎓 Education & Certification
 
-- **Universitas Bina Sarana Informatika** — Bachelor of Information Systems (2023 – Present), GPA 3.70/4.00
-- **BNSP Certified Database Administrator** — Issued by LSP Universitas Bina Sarana Informatika
-- **BNSP Certified Analyst Program** — Issued by LSP Universitas Bina Sarana Informatika
+* **Universitas Bina Sarana Informatika** — Bachelor of Information Systems (2023 – Present), GPA 3.70/4.00
+* **BNSP Certified Database Administrator** — Issued by LSP Universitas Bina Sarana Informatika
+* **BNSP Certified Analyst Program** — Issued by LSP Universitas Bina Sarana Informatika
 
 ---
 
